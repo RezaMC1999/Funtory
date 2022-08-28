@@ -1,0 +1,726 @@
+fileFormatVersion: 2
+guid: d4d2174ed5ec5fc4f8bfcbd821cb6bad
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Funtory_Buttons_0
+    21300002: Funtory_Buttons_1
+    21300004: Funtory_Buttons_2
+    21300006: Funtory_Buttons_3
+    21300008: Funtory_Buttons_4
+    21300010: Funtory_Buttons_5
+    21300012: Funtory_Buttons_6
+    21300014: Funtory_Buttons_7
+    21300016: Funtory_Buttons_8
+    21300018: Funtory_Buttons_9
+    21300020: Funtory_Buttons_10
+    21300022: Funtory_Buttons_11
+    21300024: Funtory_Buttons_12
+    21300026: Funtory_Buttons_13
+    21300028: Funtory_Buttons_14
+    21300030: Funtory_Buttons_15
+    21300032: Funtory_Buttons_16
+    21300034: Funtory_Buttons_17
+    21300036: Funtory_Buttons_18
+    21300038: Funtory_Buttons_19
+    21300040: Funtory_Buttons_20
+    21300042: Funtory_Buttons_21
+    21300044: Funtory_Buttons_22
+    21300046: Funtory_Buttons_23
+    21300048: Funtory_Buttons_24
+    21300050: Funtory_Buttons_25
+    21300052: Funtory_Buttons_26
+    21300054: Funtory_Buttons_27
+    21300056: Funtory_Buttons_28
+    21300058: Funtory_Buttons_29
+    21300060: Funtory_Buttons_30
+    21300062: Funtory_Buttons_31
+    21300064: Funtory_Buttons_32
+    21300066: Funtory_Buttons_33
+    21300068: Funtory_Buttons_34
+    21300070: Funtory_Buttons_35
+    21300072: Funtory_Buttons_36
+    21300074: Funtory_Buttons_37
+    21300076: Funtory_Buttons_38
+    21300078: Funtory_Buttons_39
+    21300080: Funtory_Buttons_40
+    21300082: Funtory_Buttons_41
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Funtory_Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 886
+        width: 152
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 888
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 888
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 888
+        width: 152
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_4
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 931
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_5
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 931
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_6
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 925
+        width: 203
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 790
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 790
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 788
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 790
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 788
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_12
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 801
+        width: 120
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_13
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 778
+        width: 154
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 689
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 688
+        width: 192
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_17
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 684
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_18
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 691
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_19
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 692
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_20
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 689
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_21
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 692
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_22
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 693
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 558
+        width: 498
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_24
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 556
+        width: 498
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 432
+        width: 498
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_26
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 428
+        width: 498
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 332
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 328
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 328
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_30
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 370
+        width: 502
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_31
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 312
+        width: 502
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 360
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 205
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_34
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 205
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_35
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 206
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_36
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 206
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_37
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 205
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 202
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 112
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_40
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 158
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Funtory_Buttons_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 8
+        width: 693
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
